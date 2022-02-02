@@ -383,7 +383,7 @@ footer ul li a:hover {
   .nav-for-mobile {
     display: block;
     position: fixed;
-    top: 0;
+    top: 20px;
     left: 0px;
     background-color: #fff;
     width: 100%;
